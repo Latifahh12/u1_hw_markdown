@@ -1,4 +1,6 @@
-# Project Title
+# Project Title 
+
+
 Date: June, 26th 2022
 
 By: Latifah Hutchings
@@ -6,6 +8,8 @@ By: Latifah Hutchings
 [GitHub](https://github.com/) | 
 [LinkedIn](https://www.linkedin.com/) | 
 [Indeed](https://www.indeed.com/) | 
+
+![image](https://softarch.usc.edu/se45/images/General/word_cloud_big.png)
 
 ***Description*** 
 
@@ -24,6 +28,7 @@ I made this project for a mark down Homework. I am learning mark down by competi
   ***Screenshots***
 
 HOMES YOU WOULD WANT TO LIVE IN!
+
   ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP._yC174sEBWELImhmt0sS8gHaE2%26pid%3DApi&f=10)
 
   VACATIONS YOU MAY WANT TO TAKE
@@ -37,8 +42,12 @@ HOMES YOU WOULD WANT TO LIVE IN!
 - [x] ~~Strikethrough~~ Items Also
 
 ***Credits***
-Vacation image: DuckDuckGo.Search
+Vacation image: DuckDuckGo Search
 
-Home Image: DuckDuckGo.Search
+Home Image: DuckDuckGo Search
 
 Markdown Cheatsheet: Github.com
+
+Project image: DuckDuckGO Search
+
+Software Engineer Photo: DuckDuckGO Search
